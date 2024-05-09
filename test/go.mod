@@ -6,7 +6,7 @@ toolchain go1.21.4
 
 require (
 	github.com/MerlinKodo/clash-rev v0.0.0
-	github.com/docker/docker v20.10.21+incompatible
+	github.com/docker/docker v24.0.9+incompatible
 	github.com/docker/go-connections v0.4.0
 	github.com/miekg/dns v1.1.56
 	github.com/stretchr/testify v1.8.4
